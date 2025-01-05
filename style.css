@@ -3,3 +3,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+.title{
+    background-color: greenyellow;
+    color: blue;
+}
+.title{
+    background-color: aqua;
+    color: yellow;
+}
